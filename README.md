@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, my name is Jia Guo, a passionate programmer 👋
+I am eager to take on new challenges and am always striving to improve and grow in my field.
 
-<!--
-**Jayg000e/Jayg000e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## In the past few months, I have  
+1. Implemented a Fault-tolerant Distributed Shard Key-value Storage System (Go)
+2. Implemented BusTub Database Management System (C++)
+3. Developed a Photo Sharing App (JavaScript, React, Node.js, Express.js, MongoDB)
 
-Here are some ideas to get you started:
+## Honors  
+| | |
+| --- | ---: |
+| Achieved 130th place in the Google Code Jam Farewell Round B [View my code in the competition](https://zibada.guru/gcj/2023b/) | Apr 2023 |
+| Awarded First Prize in the National College Student Mathematics Competition | Dec 2018 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education  
+| | | |
+| --- | --- |---: |
+| M.S. in Computer Science (Software System Track) |Columbia University |Aug 2023-Dec 2024 |
+| B.S. in Mathematics and Applied Mathematics |SYSU |Sep 2017-Jun 2021 |
+
+## Experience  
+| | | |
+| --- | --- |---: |
+|Computer Vision Researcher and Engineer |Intelligence Science and System Lab @SYSU| Sep 2020 – May 2022
+
+The repositories that I have pinned showcase some of the projects that I completed during this period.
+
