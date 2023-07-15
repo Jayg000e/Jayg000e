@@ -23,5 +23,5 @@ I am eager to take on new challenges and am always striving to improve and grow 
 | --- | --- |---: |
 |Computer Vision Researcher and Engineer |Intelligence Science and System Lab @SYSU| Sep 2020 – May 2022
 
-The repositories that I have pinned showcase some of the projects that I completed during this period.
+The pinned repositories showcase some of the projects that I completed during this period.
 
