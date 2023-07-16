@@ -9,8 +9,8 @@ I am eager to take on new challenges and am always striving to improve and grow 
 ### Honors  
 | | |
 | --- | ---: |
-| Achieved 130th place in the Google Code Jam Farewell Round B [View my code in the competition](https://zibada.guru/gcj/profile/Jayg000e) | Apr 2023 |
-| Awarded First Prize in the National College Student Mathematics Competition | Dec 2018 |
+| 130th place in the Google Code Jam Farewell Round B [View my code in the competition](https://zibada.guru/gcj/profile/Jayg000e) | Apr 2023 |
+| First Prize in the National College Student Mathematics Competition | Dec 2018 |
 
 ### Education  
 | | | |
