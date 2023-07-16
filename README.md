@@ -2,7 +2,7 @@
 I am eager to take on new challenges and am always striving to improve and grow in my field.
 
 ### In the past few months, I have  
-1. Implemented a Fault-tolerant Distributed Shard Key-value Storage System (Go)
+1. Implemented a Fault-tolerant Distributed Shard Key-value Storage System based on Paxos consensus algorithm(Go)
 2. Implemented BusTub Database Management System (C++)
 3. Developed a Photo Sharing App (JavaScript, React, Node.js, Express.js, MongoDB)
 
