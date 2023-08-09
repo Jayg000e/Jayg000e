@@ -1,5 +1,5 @@
 ### About me
-👋 Hey there, I'm Jia Guo, a passionate Computer Science graduate student at Columbia University. Currently pursuing my M.S. degree with a focus on Distributed Systems and Database Management, I'm slated to complete my studies in December 2024.
+👋 Hey there, I'm Jia Guo, a passionate Computer Science graduate student at Columbia University. Currently pursuing my M.S. degree with a focus on Software Systems, I'm slated to complete my studies in December 2024.
 
 💡 During my academic journey, I've tackled complex challenges in the realm of distributed systems, implementing a fault-tolerant Distributed Shard Key-value Storage System that incorporated sharding, Paxos consensus, and extensive testing.
 
