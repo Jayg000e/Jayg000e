@@ -1,10 +1,13 @@
-## Hi there, my name is Jia Guo, a passionate programmer 👋
-I am eager to take on new challenges and am always striving to improve and grow in my field.
+### About me
+👋 Hey there, I'm Jia Guo, a passionate Computer Science graduate student at Columbia University. Currently pursuing my M.S. degree with a focus on Distributed Systems and Database Management, I'm slated to complete my studies in December 2024.
 
-### In the past few months, I have  
-1. Implemented a Fault-tolerant Distributed Shard Key-value Storage System based on Paxos consensus algorithm(Go)
-2. Implemented BusTub Database Management System (C++)
-3. Developed a Photo Sharing App (JavaScript, React, Node.js, Express.js, MongoDB)
+💡 During my academic journey, I've tackled complex challenges in the realm of distributed systems, implementing a fault-tolerant Distributed Shard Key-value Storage System that incorporated sharding, Paxos consensus, and extensive testing.
+
+📊 In the world of databases, I've strengthened my skills by contributing to a Database Management System project. This involved optimizing query processing, enhancing data locality, and refining transaction handling for increased robustness.
+
+👁️‍🗨️ My experience in Computer Vision as a Researcher and Engineer further complements my technical foundation. From improving deep fake detection accuracy to innovating watermarking techniques and refining hand pose estimation algorithms, I've embraced diverse opportunities to learn and grow.
+
+🚀 I'm enthusiastic about the possibilities that lie ahead at the intersection of theory and application. Let's connect and explore how my educational background and practical experience can contribute to our shared vision. 
 
 ### Honors  
 | | |
