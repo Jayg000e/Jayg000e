@@ -28,3 +28,6 @@
 
 The pinned repositories showcase some of the projects that I completed during this period.
 
+### Miscellaneous
+[Leetcode Contest Rating: 2102 (top 1.72%)](https://leetcode.com/jayg000e/)
+
