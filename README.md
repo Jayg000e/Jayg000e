@@ -31,5 +31,5 @@ The pinned repositories showcase some of the projects that I completed during th
 ### Miscellaneous
 [Leetcode Contest Rating: 2102 (top 1.72%)](https://leetcode.com/jayg000e/)
 
-Achieve a 90th percentile ranking in passing CFA Level 1
+[90th percentile ranking in passing CFA Level 1](https://drive.google.com/file/d/1X-lL705CjIFbVtAKa6VcxepmlNi5sFQS/view?usp=sharing)
 
