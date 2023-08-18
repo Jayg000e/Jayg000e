@@ -33,3 +33,5 @@ The pinned repositories showcase some of the projects that I completed during th
 
 [90th percentile ranking in passing CFA Level 1](https://drive.google.com/file/d/1X-lL705CjIFbVtAKa6VcxepmlNi5sFQS/view?usp=sharing)
 
+[Transcript](https://drive.google.com/file/d/1fWE9s8FDAzQwYmWkRcgmzBPYOmoPlYXK/view?usp=drive_link) of Post Baccalaureate Coursework in Computer Science
+
