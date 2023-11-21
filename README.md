@@ -32,10 +32,10 @@ The pinned repositories showcase some of the projects that I completed during th
 
 ### Miscellaneous
 
-[Codeforces Rating: 1630](https://codeforces.com/profile/Jayg000e)
+[Codeforces Profile](https://codeforces.com/profile/Jayg000e)
 
-[Leetcode Contest Rating: 2102 (top 1.72%)](https://leetcode.com/jayg000e/)
+[Leetcode Profile](https://leetcode.com/jayg000e/)
 
-[90th percentile ranking in passing CFA Level 1](https://drive.google.com/file/d/1X-lL705CjIFbVtAKa6VcxepmlNi5sFQS/view?usp=sharing)
+[CFA Level 1](https://drive.google.com/file/d/1X-lL705CjIFbVtAKa6VcxepmlNi5sFQS/view?usp=sharing)
 
 
