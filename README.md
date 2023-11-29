@@ -28,7 +28,6 @@
 | --- | --- |---: |
 |Computer Vision Researcher and Engineer |Intelligence Science and System Lab @SYSU| Sep 2020 – May 2022
 
-The pinned repositories showcase some of the projects that I completed during this period.
 
 ### Miscellaneous
 
