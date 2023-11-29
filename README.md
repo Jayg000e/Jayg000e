@@ -36,6 +36,5 @@ The pinned repositories showcase some of the projects that I completed during th
 
 [Leetcode Profile](https://leetcode.com/jayg000e/)
 
-[CFA Level 1](https://drive.google.com/file/d/1X-lL705CjIFbVtAKa6VcxepmlNi5sFQS/view?usp=sharing)
 
 
