@@ -9,7 +9,7 @@
 
 🚀 I'm enthusiastic about the possibilities that lie ahead at the intersection of theory and application. Let's connect and explore how my educational background and practical experience can contribute to our shared vision. 
 
-### Awards
+### Competition History
 | | |
 | --- | ---: |
 | 130th place in the Google Code Jam Farewell Round B [View my code in the competition](https://zibada.guru/gcj/profile/Jayg000e) | Apr 2023 |
