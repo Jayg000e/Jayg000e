@@ -1,9 +1,11 @@
 ### About me
-👋 Hey there, I'm Jia Guo, a passionate Computer Science graduate student at Columbia University. Currently pursuing my M.S. degree with a focus on Software Systems, I'm slated to complete my studies in December 2024.
+👋 Hey there, I'm Jia Guo, a passionate Computer Science graduate student at Columbia University. Currently pursuing my M.S. degree with a focus on Software Systems, I'm slated to complete my studies in October 2024.
 
 💡 During my academic journey, I've tackled complex challenges in the realm of distributed systems, implementing a fault-tolerant Distributed Key-value Storage System that incorporated sharding, Paxos consensus, and extensive testing.
 
 📊 In the realm of databases, I've honed my expertise by developing a Database Management System. This endeavor encompassed the creation of a bufferpool manager, the implementation of a thread-safe B+ tree index with latch crabbing techniques, fine-tuning query processing for optimal performance, and the development of a robust transaction manager capable of handling all isolation levels and adeptly detecting deadlock situations.
+
+🛠️ Recently, I developed GREPQL, an easy-to-use file and text manipulation language designed to simplify and automate routine file and text processing tasks. This project highlights my commitment to creating intuitive, efficient software solutions that enhance productivity and make programming accessible to a broader audience.
 
 👁️‍🗨️ My experience in Computer Vision as a Researcher and Engineer further complements my technical foundation. From improving deep fake detection accuracy to innovating watermarking techniques and refining hand pose estimation algorithms, I've embraced diverse opportunities to learn and grow.
 
