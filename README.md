@@ -22,7 +22,7 @@
 ### Education  
 | | | |
 | --- | --- |---: |
-| M.S. in Computer Science (Software System Track) |Columbia University |Aug 2023-Dec 2024 |
+| M.S. in Computer Science (Software System Track) |Columbia University |Aug 2023-Oct 2024 |
 | B.S. in Mathematics and Applied Mathematics |SYSU |Sep 2017-Jun 2021 |
 
 ### Experience  
